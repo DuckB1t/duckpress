@@ -12,9 +12,7 @@ Installs WordPress on Arch Linux using XAMPP. That's it. No magic, no bullshit, 
 - A working WordPress installation (shocking, I know)
 - Automatic dependency management (because reading package lists is hard)
 - Smart detection of existing installations (no more "already installed" errors)
-- Advanced uninstaller with auto-debugging (because shit breaks)
-- CLI interface with timeouts and auto-yes modes (for automation nerds)
-- Colored output and progress indicators (because pretty terminals matter)
+- Your needs*
 
 ### What You Don't Get:
 - Automatic database creation (that's your job, genius)
